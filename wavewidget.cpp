@@ -1,4 +1,5 @@
-///张法桐
+///张法桐、
+///巴啦啦巴啦啦
 #include "wavewidget.h"
 #include <QPainter>
 #include <QTimer>
