@@ -1,4 +1,5 @@
 ///张法桐
+///哈哈哈哈哈哈哈哈啊
 #include "wavewidget.h"
 #include <QPainter>
 #include <QTimer>
